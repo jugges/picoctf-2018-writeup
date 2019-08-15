@@ -1,5 +1,5 @@
 # picoCTF 2018 Writeup
-
+Note that I started solving the CTF before making this write up so I'll start documenting from my current position in the CTF.
 Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copied for my own write up!
 
 # Content Page
