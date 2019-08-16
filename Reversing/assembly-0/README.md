@@ -26,6 +26,7 @@ asm0:
 We start by pushing `ebp` into the stack and moving `esp` to `ebp`.
 ![Image](https://www.cs.virginia.edu/~evans/cs216/guides/stack-convention.png)
 [Source](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+
 Moving parameter 1 at `ebp+0x8` and parameter 2 at `ebp+0xc` to `eax` and `ebx` respectivly we get:
 ```
 eax = 0x2a
