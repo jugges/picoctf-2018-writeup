@@ -310,7 +310,7 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         <tr>
             <td markdown="span"><a href="Reversing/assembly-0">assembly-0</a></td>
             <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Reversing/be-quick-or-be-dead-1">be-quick-or-be-dead-1</a></td>
