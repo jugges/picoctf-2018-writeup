@@ -26,11 +26,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/buffer%20overflow%201">buffer overflow 1</a></td>
-            <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="Binary%20Exploitation/leak-me">leak-me</a></td>
             <td markdown="span">200</td>
             <td markdown="span">Unsolved</td>
@@ -38,11 +33,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         <tr>
             <td markdown="span"><a href="Binary%20Exploitation/shellcode">shellcode</a></td>
             <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/buffer%20overflow%202">buffer overflow 2</a></td>
-            <td markdown="span">250</td>
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
@@ -56,43 +46,8 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/authenticate">authenticate</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="Binary%20Exploitation/got-shell%3F">got-shell?</a></td>
             <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/rop%20chain">rop chain</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/buffer%20overflow%203">buffer overflow 3</a></td>
-            <td markdown="span">450</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/echo%20back">echo back</a></td>
-            <td markdown="span">500</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/are%20you%20root%3F">are you root?</a></td>
-            <td markdown="span">550</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/gps">gps</a></td>
-            <td markdown="span">550</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/can-you-gets-me">can-you-gets-me</a></td>
-            <td markdown="span">650</td>
             <td markdown="span">Unsolved</td>
         </tr>
     </tbody>
@@ -134,58 +89,8 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Cryptography/blaise%27s%20cipher">blaise's cipher</a></td>
-            <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/hertz%202">hertz 2</a></td>
-            <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/Safe%20RSA">Safe RSA</a></td>
-            <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/caesar%20cipher%202">caesar cipher 2</a></td>
-            <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="Cryptography/rsa-madlibs">rsa-madlibs</a></td>
             <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/SpyFi">SpyFi</a></td>
-            <td markdown="span">300</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/Super%20Safe%20RSA">Super Safe RSA</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/Super%20Safe%20RSA%202">Super Safe RSA 2</a></td>
-            <td markdown="span">425</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/Magic%20Padding%20Oracle">Magic Padding Oracle</a></td>
-            <td markdown="span">450</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/Super%20Safe%20RSA%203">Super Safe RSA 3</a></td>
-            <td markdown="span">600</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Cryptography/James%20Brahm%20Returns">James Brahm Returns</a></td>
-            <td markdown="span">700</td>
             <td markdown="span">Unsolved</td>
         </tr>
     </tbody>
@@ -262,11 +167,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Forensics/core">core</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="Forensics/Malware%20Shops">Malware Shops</a></td>
             <td markdown="span">400</td>
             <td markdown="span">Unsolved</td>
@@ -290,17 +190,17 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
     </thead>
     <tbody>
         <tr>
-            <td markdown="span"><a href="General%20Skills/General%20Warmup%201">General Skills 1</a></td>
+            <td markdown="span"><a href="General%20Skills/General%20Warmup%201">General Warmup 1</a></td>
             <td markdown="span">50</td>
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="General%20Skills/General%20Warmup%202">General Skills 2</a></td>
+            <td markdown="span"><a href="General%20Skills/General%20Warmup%202">General Warmup 2</a></td>
             <td markdown="span">50</td>
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="General%20Skills/General%20Warmup%203">General Skills 3</a></td>
+            <td markdown="span"><a href="General%20Skills/General%20Warmup%203">General Warmup 3</a></td>
             <td markdown="span">50</td>
             <td markdown="span">Unsolved</td>
         </tr>
@@ -375,11 +275,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="General%20Skills/roulette">roulette</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="General%20Skills/store">store</a></td>
             <td markdown="span">400</td>
             <td markdown="span">Unsolved</td>
@@ -387,11 +282,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         <tr>
             <td markdown="span"><a href="General%20Skills/script%20me">script me</a></td>
             <td markdown="span">500</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="General%20Skills/Dog%20or%20Frog">Dog or Frog</a></td>
-            <td markdown="span">900</td>
             <td markdown="span">Unsolved</td>
         </tr>
     </tbody>
@@ -423,63 +313,8 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Reversing/assembly-1">assembly-1</a></td>
-            <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="Reversing/be-quick-or-be-dead-1">be-quick-or-be-dead-1</a></td>
             <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/quackme">quackme</a></td>
-            <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/assembly-2">assembly-2</a></td>
-            <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/be-quick-or-be-dead-2">be-quick-or-be-dead-2</a></td>
-            <td markdown="span">275</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/be-quick-or-be-dead-3">be-quick-or-be-dead-3</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/quackme%20up">quackme up</a></td>
-            <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/Radix%27s%20Terminal">Radix's Terminal</a></td>
-            <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/assembly-3">assembly-3</a></td>
-            <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/keygen-me-1">keygen-me-1</a></td>
-            <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/assembly-4">assembly-4</a></td>
-            <td markdown="span">550</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="Reversing/special-pw">special-pw</a></td>
-            <td markdown="span">600</td>
             <td markdown="span">Unsolved</td>
         </tr>
     </tbody>
@@ -536,11 +371,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Web%20Exploitation/The%20Vault">The Vault</a></td>
-            <td markdown="span">250</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="Web%20Exploitation/Artisinal%20Handcrafted%20HTTP%203">Artisinal Handcrafted HTTP 3</a></td>
             <td markdown="span">300</td>
             <td markdown="span">Unsolved</td>
@@ -561,11 +391,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Web%20Exploitation/Flaskcards%20Skeleton%20Key">Flaskcards Skeleton Key</a></td>
-            <td markdown="span">600</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
             <td markdown="span"><a href="Web%20Exploitation/Help%20Me%20Reset%202">Help Me Reset 2</a></td>
             <td markdown="span">600</td>
             <td markdown="span">Unsolved</td>
@@ -573,11 +398,6 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         <tr>
             <td markdown="span"><a href="Web%20Exploitation/A%20Simple%20Question">A Simple Question</a></td>
             <td markdown="span">650</td>
-            <td markdown="span">Unsolved</td>
-        </tr>
-        <tr>
-            <td markdown="span"><a href="LambDash%203">LambDash 3</a></td>
-            <td markdown="span">800</td>
             <td markdown="span">Unsolved</td>
         </tr>
     </tbody>
