@@ -23,7 +23,7 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         <tr>
             <td markdown="span"><a href="Binary%20Exploitation/buffer%20overflow%200">buffer overflow 0</a></td>
             <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Binary%20Exploitation/leak-me">leak-me</a></td>
