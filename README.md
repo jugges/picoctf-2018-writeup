@@ -46,7 +46,7 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Solved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Binary%20Exploitation/got-shell%3F">got-shell?</a></td>
+            <td markdown="span"><a href="Binary%20Exploitation/got-shell">got-shell?</a></td>
             <td markdown="span">350</td>
             <td markdown="span">Unsolved</td>
         </tr>
@@ -162,7 +162,7 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Forensics/What%27s%20My%20Name%3F">What's My Name?</a></td>
+            <td markdown="span"><a href="Forensics/What%27s%20My%20Name">What's My Name?</a></td>
             <td markdown="span">250</td>
             <td markdown="span">Unsolved</td>
         </tr>
@@ -250,7 +250,7 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="General%20Skills/what%20base%20is%20this%3F">what base is this?</a></td>
+            <td markdown="span"><a href="General%20Skills/what%20base%20is%20this">what base is this?</a></td>
             <td markdown="span">200</td>
             <td markdown="span">Unsolved</td>
         </tr>
