@@ -43,7 +43,7 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         <tr>
             <td markdown="span"><a href="Binary%20Exploitation/echooo">echooo</a></td>
             <td markdown="span">300</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Binary%20Exploitation/got-shell%3F">got-shell?</a></td>
