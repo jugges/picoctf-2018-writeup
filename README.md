@@ -26,6 +26,11 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Solved</td>
         </tr>
         <tr>
+            <td markdown="span"><a href="Binary%20Exploitation/buffer%20overflow%201">buffer overflow 1</a></td>
+            <td markdown="span">200</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
             <td markdown="span"><a href="Binary%20Exploitation/leak-me">leak-me</a></td>
             <td markdown="span">200</td>
             <td markdown="span">Unsolved</td>
@@ -47,6 +52,11 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         </tr>
         <tr>
             <td markdown="span"><a href="Binary%20Exploitation/got-shell">got-shell?</a></td>
+            <td markdown="span">350</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Binary%20Exploitation/authenticate">authenticate</a></td>
             <td markdown="span">350</td>
             <td markdown="span">Unsolved</td>
         </tr>
@@ -313,8 +323,23 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
             <td markdown="span">Solved</td>
         </tr>
         <tr>
+            <td markdown="span"><a href="Reversing/assembly-1">assembly-1</a></td>
+            <td markdown="span">200</td>
+            <td markdown="span">Solved</td>
+        </tr>
+        <tr>
             <td markdown="span"><a href="Reversing/be-quick-or-be-dead-1">be-quick-or-be-dead-1</a></td>
             <td markdown="span">200</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Reversing/quackme">quackme</a></td>
+            <td markdown="span">200</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Reversing/assembly-2">assembly-2</a></td>
+            <td markdown="span">250</td>
             <td markdown="span">Unsolved</td>
         </tr>
     </tbody>
