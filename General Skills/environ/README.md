@@ -3,3 +3,13 @@
 
 ### Hint
 >unix [env](https://www.tutorialspoint.com/unix/unix-environment.htm)
+
+## Solution
+Listing all all environment variables is as easy as executing `env`, but because we are lazy, we are going to use some grep magic:
+```bash
+pico-2018-shell:~$ env | grep -E "picoCTF{.+}"                                     
+SECRET_FLAG=picoCTF{eNv1r0nM3nT_v4r14Bl3_fL4g_3758492}
+```
+
+### Flag
+`picoCTF{eNv1r0nM3nT_v4r14Bl3_fL4g_3758492}`
