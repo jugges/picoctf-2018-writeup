@@ -252,7 +252,7 @@ Special thanks to [@PlatyPew](https://github.com/PlatyPew) for his README I copi
         <tr>
             <td markdown="span"><a href="General%20Skills/environ">environ</a></td>
             <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General%20Skills/ssh-keyz">ssh-keyz</a></td>
